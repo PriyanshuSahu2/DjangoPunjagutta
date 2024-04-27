@@ -26,4 +26,4 @@ step 7) set the path of css file by using link tag so we need to use static wrto
 
 <link rel='' href="{% static 'fileName' %}" > 
 
-step 8): start the server
+step 8): restart the server
